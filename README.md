@@ -16,7 +16,7 @@ $r=R/N$ - removed ration
 
   $\frac{di}{dt} = \lambda i (1-i)$
   
-  ![SI](results/SI.png)
+  ![SI](https://github.com/XuelongSun/Dynamic-Model-of-Infectious-Diseases/blob/master/results/SI.png)
 
 + SIS model
   
@@ -26,7 +26,7 @@ $r=R/N$ - removed ration
 
   $\frac{di}{dt} = \lambda i (1-i) - \gamma i$
   
-  ![SIS](results/SIS.png)
+  ![SIS](https://github.com/XuelongSun/Dynamic-Model-of-Infectious-Diseases/blob/master/results/SIS.png)
 
 + SIR model
 
@@ -38,7 +38,7 @@ $r=R/N$ - removed ration
   
   $\frac{dr}{dt} = \gamma i$
 
-  ![SIR](results/SIR.png)
+  ![SIR](https://github.com/XuelongSun/Dynamic-Model-of-Infectious-Diseases/blob/master/results/SIR.png)
 
 + SEIR model
 
@@ -52,4 +52,4 @@ $r=R/N$ - removed ration
   
   $\frac{dr}{dt} = \gamma i$
 
-  ![SEIR](results/SEIR.png)
+  ![SEIR](https://github.com/XuelongSun/Dynamic-Model-of-Infectious-Diseases/blob/master/results/SIRE.png)
