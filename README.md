@@ -16,7 +16,7 @@ $r=R/N$ - removed ration
 
   $\frac{di}{dt} = \lambda i (1-i)$
   
-  ![](results/SI.png)
+  ![SI](results/SI.png)
 
 + SIS model
   
@@ -26,7 +26,7 @@ $r=R/N$ - removed ration
 
   $\frac{di}{dt} = \lambda i (1-i) - \gamma i$
   
-  ![](results/SIS.png)
+  ![SIS](results/SIS.png)
 
 + SIR model
 
@@ -38,7 +38,7 @@ $r=R/N$ - removed ration
   
   $\frac{dr}{dt} = \gamma i$
 
-  ![](results/SIR.png)
+  ![SIR](results/SIR.png)
 
 + SEIR model
 
@@ -52,4 +52,4 @@ $r=R/N$ - removed ration
   
   $\frac{dr}{dt} = \gamma i$
 
-  ![](results/SEIR.png)
+  ![SEIR](results/SEIR.png)
