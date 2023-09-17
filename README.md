@@ -1,4 +1,4 @@
-## Dynamic Python Model of Infectious Diseases
+## Dynamic Model of Infectious Diseases
 
 Python implementation of SI, SIR, SIS SEIR.
 
@@ -10,7 +10,7 @@ $s=S/N$ - susceptible ration
 
 $r=R/N$ - removed ration
 
-+ SI model
++ **SI model**
   
   [ S ] -- $\lambda$ --> [ I ]
 
@@ -18,7 +18,7 @@ $r=R/N$ - removed ration
   
   ![SI](https://github.com/XuelongSun/Dynamic-Model-of-Infectious-Diseases/blob/master/results/SI.png)
 
-+ SIS model
++ **SIS model**
   
   [ S ] -- $\lambda$ --> [ I ]
 
@@ -28,7 +28,7 @@ $r=R/N$ - removed ration
   
   ![SIS](https://github.com/XuelongSun/Dynamic-Model-of-Infectious-Diseases/blob/master/results/SIS.png)
 
-+ SIR model
++ **SIR model**
 
   [ S ] -- $\lambda$ --> [ I ] -- $\gamma$ --> [R]
 
@@ -40,7 +40,7 @@ $r=R/N$ - removed ration
 
   ![SIR](https://github.com/XuelongSun/Dynamic-Model-of-Infectious-Diseases/blob/master/results/SIR.png)
 
-+ SEIR model
++ **SEIR model**
 
   [ S ] -- $\lambda$ -->[ E ]-- $\sigma$ --> [ I ] -- $\gamma$ --> [R]
 
